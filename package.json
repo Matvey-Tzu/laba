@@ -20,6 +20,10 @@
     "test": "react-scripts test",
     "lint": "eslint src/**.js"
   },
+  "repository": {
+    "url": "https://github.com/matvey-tzu/laba"
+  },
+
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -42,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@semantic-release/npm": "^11.0.2",
     "eslint": "^8.50.0",
     "gh-pages": "^6.1.1"
   }
