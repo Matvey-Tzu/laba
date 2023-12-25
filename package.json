@@ -21,7 +21,7 @@
     "lint": "eslint src/**.js"
   },
   "repository": {
-    "url": "https://github.com/matvey-tzu/laba"
+    "url": "https://github.com/Matvey-Tzu/laba.git"
   },
 
   "eslintConfig": {

@@ -1,8 +1,9 @@
 import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
-  const greeting = "Это тестовый проект Казакова Матвея Михайловича 2";
+  const greeting = "Это тестовый проект Казакова Матвея Михайловича 3";
 
   return (
     <div className="App">
